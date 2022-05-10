@@ -7,7 +7,7 @@ To write a python program to perform Back Propagation with Single Neuron.
 1.Hardware – PCs
 2.Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
-## Related Theoritical Concept:
+## Related Theoretical Concept:
 ### Training Dataset:
 Training data is an extremely large dataset that is used to teach a machine learning model. Training data is used to teach prediction models that use machine learning algorithms how to extract features that are relevant to specific business goals. For supervised ML models, the training data is labeled. The data used to train unsupervised ML models is not labeled. Training data is also known as a training set, training dataset or learning set.
 
